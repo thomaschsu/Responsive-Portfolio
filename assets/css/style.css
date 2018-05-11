@@ -170,3 +170,21 @@ button {
 
 /* Media Queries */
 
+@media screen and (max-width: 980px ) {
+    .width-fix {
+        width: 850px;
+        margin: 0 auto;
+    }
+    .body-white {
+        width: 75%;
+    }
+
+}
+
+@media screen and (max-width: 768px ) {
+    
+}
+
+@media screen and (max-width: 640px ) {
+    
+}
