@@ -12,7 +12,7 @@ Responsive portfolio was created using HTML, CSS, and Photoshop. This is the sec
 
 ### Skills Used
 1. HTML
-2. CSS
+2. CSS / Media Queries
 3. Photoshop
 
 - - -
